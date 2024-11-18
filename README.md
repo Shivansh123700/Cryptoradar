@@ -38,7 +38,7 @@ The backend of the CryptoRadar platform is powered by a smart contract written i
 
 - **Transaction Hash**: `0x1facbedf4d72627d39bfba6fb3753623257f19faadd35e9ac06e370da4185f0e`
 - **Sender Address**: `0x7c4c26e16031ef4d298582ff295c31eaa0b04110d5f54bc546130c4173344f42`
-- **Network**: Aptos
+- **Network**: Aptos (Devnet)
 - **Module**: `CryptoRadar`
 
 ### Deployment
@@ -118,6 +118,12 @@ Start the frontend server
 <img width="1440" alt="Screenshot 2024-11-18 at 7 06 49 PM" src="https://github.com/user-attachments/assets/bc8bd320-aceb-49ab-82da-ebd6ebf6776a">
 
 <img width="1440" alt="Screenshot 2024-11-18 at 7 07 05 PM" src="https://github.com/user-attachments/assets/8e2bcd53-062d-4160-afdf-952f74c7498b">
+
+### Image of the Notification Generated
+
+![WhatsApp Image 2024-11-18 at 14 59 14](https://github.com/user-attachments/assets/13948c85-b0db-43a7-8bb8-45380eaceba7)
+
+
 
 
 
