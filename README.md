@@ -36,13 +36,14 @@ The backend of the CryptoRadar platform is powered by a smart contract written i
 
 ### Contract Details
 
-- **Address**: `0xb07a341a22ce8cc6374004e20598e9889e9efc4d10f068c7dbcb60dfd578333f`
+- **Transaction Hash**: `0x1facbedf4d72627d39bfba6fb3753623257f19faadd35e9ac06e370da4185f0e`
+- **Sender Address**: `0x7c4c26e16031ef4d298582ff295c31eaa0b04110d5f54bc546130c4173344f42`
 - **Network**: Aptos
-- **Module**: `CrypAle`
+- **Module**: `CryptoRadar`
 
 ### Deployment
 
-- **Transaction Hash**: [Link](https://explorer.aptoslabs.com/txn/41912873?network=devnet)
+- **Transaction Hash**: [Link]([https://explorer.aptoslabs.com/txn/41912873?network=devnet](https://explorer.aptoslabs.com/txn/0x1facbedf4d72627d39bfba6fb3753623257f19faadd35e9ac06e370da4185f0e/userTxnOverview?network=devnet))
 - **Coin Used**: Aptos Coin (APT)
 
 The contract utilizes resources such as `Alert` and `Alerts` to manage user alerts, and functions are available for creating, deactivating, and fetching alerts for users. All actions are recorded securely on the Aptos blockchain.
