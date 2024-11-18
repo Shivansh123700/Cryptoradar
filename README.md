@@ -97,6 +97,31 @@ Start the frontend server
 ## Video Link
 [Video Link](https://youtu.be/nokuZnu5PZg)
 
-## Images of the Interface
+## Images
+
+<img width="1440" alt="Transaction Smart contract" src="https://github.com/user-attachments/assets/89dbb0b1-2210-4810-8b66-3823b9bddda7">
+
+### Image of the Landing Page
+
+<img width="1440" alt="Screenshot 2024-11-18 at 7 05 43 PM" src="https://github.com/user-attachments/assets/fa304e54-63f4-455b-94a2-1656280d863a">
+
+<img width="1440" alt="Screenshot 2024-11-18 at 7 05 55 PM" src="https://github.com/user-attachments/assets/762e0d8e-41ad-4c96-9c7d-c134f0df9bca">
+
+### Image of the Home Page
+
+<img width="1439" alt="Screenshot 2024-11-18 at 7 06 27 PM" src="https://github.com/user-attachments/assets/b1c8cf83-6f74-448e-8e7b-0d49baa45abe">
+
+<img width="1439" alt="Screenshot 2024-11-18 at 7 06 37 PM" src="https://github.com/user-attachments/assets/72fce3d0-dfc1-4396-8274-4e30eb2865f0">
+
+### Image of the Alerts Page
+
+<img width="1440" alt="Screenshot 2024-11-18 at 7 06 49 PM" src="https://github.com/user-attachments/assets/bc8bd320-aceb-49ab-82da-ebd6ebf6776a">
+
+<img width="1440" alt="Screenshot 2024-11-18 at 7 07 05 PM" src="https://github.com/user-attachments/assets/8e2bcd53-062d-4160-afdf-952f74c7498b">
+
+
+
+
+
 
 
